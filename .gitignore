@@ -31,6 +31,8 @@ go.work
 1Password/*
 .1Password
 .1Password/*
+op
+op/*
 
 # User-specific stuff
 .idea/**/workspace.xml
